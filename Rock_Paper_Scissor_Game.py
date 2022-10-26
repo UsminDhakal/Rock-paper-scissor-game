@@ -31,7 +31,7 @@ def game(comp,you):
             print("Please choose either R P or S....")
 
 randno=random.randint(1,3)
-# print(randno)
+
 
 if randno==1:
     comp='r'
